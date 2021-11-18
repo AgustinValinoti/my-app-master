@@ -53,9 +53,10 @@
 }
 
 .product-controls {
+    cursor: pointer;
+    justify-content: space-between;
     display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
+    margin-left: 220px;
 }
 
 .ctrl-slide {

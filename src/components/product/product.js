@@ -39,7 +39,7 @@ export default () => {
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
         </p>
-              <div className="products-controls">
+              <div className="product-controls">
                 <a>
                   <img
                     src={imgLeftArrow}
@@ -70,7 +70,7 @@ export default () => {
         <p className="product-p">
           
         </p>
-              <div className="products-controls">
+              <div className="product-controls">
                 <a>
                   <img
                     src={imgLeftArrow}
@@ -103,7 +103,7 @@ export default () => {
         <p className="product-p">
             MUNDOS E
         </p>
-              <div className="products-controls">
+              <div className="product-controls">
                 <a>
                   <img
                     src={imgLeftArrow}
